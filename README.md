@@ -3,7 +3,7 @@
 About me
 ### Увлекаюсь разработкой программ, буду рад содудничеству
 Latest news about me
-
+#### Учеба
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=py&logoColor=47C5FB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
